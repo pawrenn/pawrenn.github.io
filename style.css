@@ -19,6 +19,9 @@ h1{
 	margin-bottom: 0.5rem!important;
 }
 
+#mc_embed_signup{
+	align-items: center;
+}
 .container {
     text-align: center;
 }
@@ -40,7 +43,7 @@ h1{
 }
 
 .btn-primary:hover {
-  	border-width: 4px;
+  	border-width: 4px!important;
   	cursor: pointer;
 }
 
