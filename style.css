@@ -1,10 +1,10 @@
 header.centered {
 	font-family: 'Cairo', sans-serif;
-	background: linear-gradient(302deg, #09eeb3, #008cff, #ed59ee);
+	background: linear-gradient(270deg, #35b1f7, #4ad7a1, #ecb01c);
 	background-size: 600% 600%;
-	-webkit-animation: AnimationName 15s ease infinite;
-	-moz-animation: AnimationName 15s ease infinite;
-	animation: AnimationName 15s ease infinite;
+	-webkit-animation: AnimationName 30s ease infinite;
+	-moz-animation: AnimationName 30s ease infinite;
+	animation: AnimationName 30s ease infinite;
 	min-height: 100%;
     min-height: 100vh;
     min-width: 100%;
